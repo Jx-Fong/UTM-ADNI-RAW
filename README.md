@@ -10,7 +10,7 @@
 
 5. From our internal testing, using 8-bit images instead of 16-bit images for training has no penalty in performance. Any further investigation or research on MRI bit-depth vs accuracy is welcomed.
 
-###############################################################################################################################
+#############################################################################################################
 
 Dataset URL: 192.168.0.113/gitlab-cairo/utm-adni-raw
 
