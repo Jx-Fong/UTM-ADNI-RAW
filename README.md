@@ -19,4 +19,4 @@ Dataset URL:
 
 Update 1/1/2020: Currently UTM CAIRO server is in maintainance. A new url link to the dataset will be given after our staff setup a new domain address for the dataset.
 
-Update 8/1/2020: Temporary link of final filtered and labeled dataset is updated
+Update 8/1/2020: Temporary link of final filtered and labeled dataset is updated. Full dataset (40GB) including original 500 AD and NC data will be provided with a new link in the future.
