@@ -12,7 +12,11 @@
 
 #################################################################################################
 
-Dataset URL: 192.168.0.113/gitlab-cairo/utm-adni-raw (internal ip)
+Dataset URL: 
+- 192.168.0.113/gitlab-cairo/utm-adni-raw (internal ip)
+- gitlab.com/inokaicairo/UTM-ADNI-AD (temp)
+- gitlab.com/inokaicairo/UTM-ADNI-NC (temp)
 
 Update 1/1/2020: Currently UTM CAIRO server is in maintainance. A new url link to the dataset will be given after our staff setup a new domain address for the dataset.
 
+Update 8/1/2020: Temporary link of final filtered and labeled dataset is updated
